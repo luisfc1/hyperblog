@@ -1,8 +1,5 @@
 Archivo de texto.
 
-Es un ejemplo del curso.
-Para la clase.
+Es un ejemplo.
 
-Es un proyecto.
-
-Es para una tarea para la universidad.
+Maña se entrega la tarea.
